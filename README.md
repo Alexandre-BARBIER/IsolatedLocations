@@ -1,5 +1,12 @@
 # Find isolated properties in France
 
+**As this is a Prototype, a few parameters are for now hard coded in the program**
+ - The department (in this case department 45, Loiret) on line 39
+ - The neighboring departments, defined on line 42
+ - The driven time defined on line 77 in seconds
+ - The origin point defined on line 76
+ - The distance to closest neighbor defined on line 87 in kilometers 
+
 ## Goal of this project
 
 Using cadastre databases' data, find all habitations that are further than 300 meters from their closest neightbor.
