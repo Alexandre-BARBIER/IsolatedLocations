@@ -16,6 +16,8 @@ Only keep locations that are less than a certain T driving time away from a poin
 
 Clone the repository and open a terminal in the folder
 
+Add data from cadastre in `./data` downloading it from `https://adresse.data.gouv.fr/data/adresses-cadastre/latest/csv`
+
 Run the following commands
 
 
